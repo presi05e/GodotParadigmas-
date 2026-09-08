@@ -215,9 +215,9 @@ El desarrollo del proyecto se plantea en diferentes etapas.
 
 * [x] Configuración del proyecto base.
 * [x] Integración de personajes y recursos.
-* [ ] Implementación del botón de histórico.
-* [ ] Registro de las interacciones.
-* [ ] Visualización clara del histórico.
+* [x] Implementación del botón de histórico.
+* [x] Registro de las interacciones.
+* [x] Visualización clara del histórico.
 
 ### Fase 2 — Reworking
 
