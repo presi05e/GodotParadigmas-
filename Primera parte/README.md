@@ -41,7 +41,7 @@ Ver el detalle técnico completo en [`docs/ARQUITECTURA.md`](docs/ARQUITECTURA.m
 
 | Tecla | Acción                                  |
 |-------|------------------------------------------|
-| Flechas / WASD | Mover al Vendedor                |
+| Flechas  | Mover al Vendedor                |
 | `X`   | Vender un tronco al NPC con el que se está interactuando |
 | `Z`   | Mostrar / ocultar el histórico de interacciones |
 
