@@ -258,9 +258,10 @@ El desarrollo busca servir como una aplicación práctica de los conceptos estud
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Esteban Présiga Posada**
+**Emanuel Tamayo Florez**
 
 Proyecto académico individual.
 
