@@ -43,12 +43,12 @@ Desarrollar y evolucionar un sistema interactivo en Godot que permita representa
 | -------------------------- | :--------------: |
 | Proyecto base en Godot     |        🟢        |
 | Sistema de personajes/NPCs |        🟢        |
-| Interacciones              |        🟡        |
-| Histórico de interacciones | 🟡 En desarrollo |
-| Refactorización del código |     🔴 Futuro    |
-| Reworking arquitectónico   |     🔴 Futuro    |
-| Aplicación de POO          |  🟡 En evolución |
-| Documentación              | 🟡 En desarrollo |
+| Interacciones              |        🟢        |
+| Histórico de interacciones | 🟢 |
+| Refactorización del código |     🟢 Futuro    |
+| Reworking arquitectónico   |     🟢 Futuro    |
+| Aplicación de POO          |  🟢  |
+| Documentación              | 🟢 |
 
 **Leyenda:**
 🟢 Implementado · 🟡 En desarrollo · 🔴 Pendiente
