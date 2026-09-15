@@ -45,8 +45,8 @@ Desarrollar y evolucionar un sistema interactivo en Godot que permita representa
 | Sistema de personajes/NPCs |        🟢        |
 | Interacciones              |        🟢        |
 | Histórico de interacciones | 🟢 |
-| Refactorización del código |     🟢 Futuro    |
-| Reworking arquitectónico   |     🟢 Futuro    |
+| Refactorización del código |     🟢     |
+| Reworking arquitectónico   |     🟢     |
 | Aplicación de POO          |  🟢  |
 | Documentación              | 🟢 |
 
