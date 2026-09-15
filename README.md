@@ -142,40 +142,6 @@ El objetivo será revisar la estructura actual del código y detectar oportunida
 
 Este proceso permitirá utilizar el proyecto no solamente como un videojuego funcional, sino también como un espacio práctico para aplicar los conocimientos adquiridos en la asignatura de **Paradigmas de Programación**.
 
----
-
-## 📁 Estructura del proyecto
-
-La estructura se organiza principalmente alrededor de los recursos del juego, escenas y scripts correspondientes a los diferentes elementos del proyecto.
-
-Una estructura conceptual del proyecto es:
-
-```text
-godot-npc-trading-system/
-│
-├── Assets/
-│   └── Characters/
-│       ├── Lancer/
-│       ├── Monk/
-│       ├── Pawn/
-│       └── Goblin/
-│
-├── Scenes/
-│   ├── Seller/
-│   ├── Lancer/
-│   ├── Monk/
-│   └── Goblin/
-│
-├── Scripts/
-│   └── ...
-│
-├── project.godot
-├── *.csproj
-├── *.sln
-└── README.md
-```
-
-> La estructura podrá modificarse durante el proceso de reworking y refactorización.
 
 ---
 
