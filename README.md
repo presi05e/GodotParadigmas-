@@ -62,7 +62,6 @@ Desarrollar y evolucionar un sistema interactivo en Godot que permita representa
 | **Godot Engine** | Motor de desarrollo del proyecto                                             |
 | **Godot .NET**   | Entorno de desarrollo con soporte para C#                                    |
 | **C#**           | Desarrollo de la lógica y programación orientada a objetos                   |
-| **Python**       | Lenguaje previsto para el trabajo académico relacionado con POO y paradigmas |
 | **Git**          | Control de versiones                                                         |
 | **GitHub**       | Gestión y almacenamiento del repositorio                                     |
 
@@ -187,20 +186,20 @@ El desarrollo del proyecto se plantea en diferentes etapas.
 
 ### Fase 2 — Reworking
 
-* [ ] Analizar la arquitectura existente.
-* [ ] Identificar problemas de diseño.
-* [ ] Refactorizar código.
-* [ ] Mejorar la separación de responsabilidades.
-* [ ] Aplicar principios de POO.
-* [ ] Reducir duplicación de código.
+* [x] Analizar la arquitectura existente.
+* [x] Identificar problemas de diseño.
+* [x] Refactorizar código.
+* [x] Mejorar la separación de responsabilidades.
+* [x] Aplicar principios de POO.
+* [x] Reducir duplicación de código.
 
 ### Fase 3 — Evolución
 
-* [ ] Mejorar el sistema de interacciones.
-* [ ] Ampliar el sistema de comercio.
-* [ ] Mejorar la interfaz.
-* [ ] Incorporar nuevas funcionalidades.
-* [ ] Documentar la arquitectura final.
+* [x] Mejorar el sistema de interacciones.
+* [x] Ampliar el sistema de comercio.
+* [x] Mejorar la interfaz.
+* [x] Incorporar nuevas funcionalidades.
+* [x] Documentar la arquitectura final.
 
 ---
 
